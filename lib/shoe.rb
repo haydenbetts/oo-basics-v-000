@@ -7,7 +7,7 @@ class Shoe
 
   def cobble
     puts ""
-    @condition = new
+    self.condition = "new"
   end
 
 end
